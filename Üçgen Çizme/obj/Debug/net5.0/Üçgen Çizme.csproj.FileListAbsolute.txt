@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.AssemblyInfo.cs
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.exe
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.deps.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.runtimeconfig.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net5.0\Üçgen Çizme.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\refint\Üçgen Çizme.dll
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.pdb
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\Üçgen Çizme.genruntimeconfig.cache
+D:\C#\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net5.0\ref\Üçgen Çizme.dll
